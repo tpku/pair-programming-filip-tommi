@@ -6,7 +6,6 @@ require __DIR__ . '/src/Person.php';
 require __DIR__ . '/src/Employee.php';
 
 $employee = new Employee('Susan Johansson');
-
 $employee->title = "principle";
 
 
